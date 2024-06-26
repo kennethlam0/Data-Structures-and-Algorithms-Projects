@@ -1,0 +1,95 @@
+User a logged in.
+User b logged in.
+User c logged in.
+User d logged in.
+User g logged in.
+Select a time less than three days in the future.
+Transaction placed at 333333333333: $1 from a to b at 333333333334.
+Transaction executed at 333333333334: $1 from a to b.
+Transaction placed at 333333333339: $1 from a to b at 333333333340.
+Transaction executed at 333333333340: $1 from a to b.
+Transaction placed at 333333333347: $1 from a to b at 333333383348.
+Fraudulent transaction detected, aborting request.
+Transaction placed at 333333333351: $60 from a to b at 333335333352.
+Transaction placed at 333333333353: $90 from b to a at 333333333354.
+Transaction executed at 333333333354: $90 from b to a.
+Transaction placed at 333333333355: $1 from a to b at 333333333356.
+Transaction executed at 333333333356: $1 from a to b.
+Transaction placed at 333333333357: $1 from a to b at 333335323358.
+Transaction placed at 333333333359: $1 from a to b at 333333333360.
+Transaction executed at 333333333360: $1 from a to b.
+Transaction placed at 333333333361: $1 from a to b at 333333333362.
+Transaction executed at 333333333362: $1 from a to b.
+Transaction placed at 333333333363: $200 from a to c at 333333333364.
+Insufficient funds to process transaction 9.
+Transaction placed at 333333333365: $200 from a to c at 333333333366.
+Select a time less than three days in the future.
+Select a time less than three days in the future.
+Insufficient funds to process transaction 10.
+Transaction executed at 333333383348: $1 from a to b.
+Transaction executed at 333335323358: $1 from a to b.
+Transaction executed at 333335333352: $60 from a to b.
+Transaction placed at 494444434444: $660 from d to a at 494444444444.
+Transaction executed at 494444444444: $660 from d to a.
+Transaction placed at 494444444444: $660 from d to a at 494444444444.
+Transaction executed at 494444444444: $660 from d to a.
+Transaction placed at 504442444444: $660 from d to a at 504444444444.
+Select a time less than three days in the future.
+Transaction executed at 504444444444: $660 from d to a.
+0: a sent 1 dollar to b at 333333333334.
+1: a sent 1 dollar to b at 333333333340.
+4: b sent 90 dollars to a at 333333333354.
+5: a sent 1 dollar to b at 333333333356.
+7: a sent 1 dollar to b at 333333333360.
+8: a sent 1 dollar to b at 333333333362.
+2: a sent 1 dollar to b at 333333383348.
+6: a sent 1 dollar to b at 333335323358.
+3: a sent 60 dollars to b at 333335333352.
+11: d sent 660 dollars to a at 494444444444.
+12: d sent 660 dollars to a at 494444444444.
+13: d sent 660 dollars to a at 504444444444.
+There were 12 transactions that were placed between time 0 to 999999999999.
+Customer a account summary:
+Balance: $2066
+Total # of transactions: 12
+Incoming 4:
+4: b sent 90 dollars to a at 333333333354.
+11: d sent 660 dollars to a at 494444444444.
+12: d sent 660 dollars to a at 494444444444.
+13: d sent 660 dollars to a at 504444444444.
+Outgoing 8:
+0: a sent 1 dollar to b at 333333333334.
+1: a sent 1 dollar to b at 333333333340.
+5: a sent 1 dollar to b at 333333333356.
+7: a sent 1 dollar to b at 333333333360.
+8: a sent 1 dollar to b at 333333333362.
+2: a sent 1 dollar to b at 333333383348.
+6: a sent 1 dollar to b at 333335323358.
+3: a sent 60 dollars to b at 333335333352.
+Customer b account summary:
+Balance: $171
+Total # of transactions: 9
+Incoming 8:
+0: a sent 1 dollar to b at 333333333334.
+1: a sent 1 dollar to b at 333333333340.
+5: a sent 1 dollar to b at 333333333356.
+7: a sent 1 dollar to b at 333333333360.
+8: a sent 1 dollar to b at 333333333362.
+2: a sent 1 dollar to b at 333333383348.
+6: a sent 1 dollar to b at 333335323358.
+3: a sent 60 dollars to b at 333335333352.
+Outgoing 1:
+4: b sent 90 dollars to a at 333333333354.
+Summary of [111111000000, 111112000000):
+There were a total of 0 transactions, 281Bank has collected 0 dollars in fees.
+Summary of [333333000000, 333334000000):
+0: a sent 1 dollar to b at 333333333334.
+1: a sent 1 dollar to b at 333333333340.
+4: b sent 90 dollars to a at 333333333354.
+5: a sent 1 dollar to b at 333333333356.
+7: a sent 1 dollar to b at 333333333360.
+8: a sent 1 dollar to b at 333333333362.
+2: a sent 1 dollar to b at 333333383348.
+There were a total of 7 transactions, 281Bank has collected 49 dollars in fees.
+Summary of [493333000000, 493334000000):
+There were a total of 0 transactions, 281Bank has collected 0 dollars in fees.

@@ -1,0 +1,126 @@
+User a logged in.
+User b logged in.
+Select a time less than three days in the future.
+Transaction placed at 333333333333: $1 from a to b at 333333333334.
+Transaction executed at 333333333334: $1 from a to b.
+Transaction placed at 333333333339: $1 from a to b at 333333333340.
+Transaction executed at 333333333340: $1 from a to b.
+Transaction placed at 333333333347: $1 from a to b at 333333333348.
+Fraudulent transaction detected, aborting request.
+Transaction executed at 333333333348: $1 from a to b.
+Transaction placed at 333333333351: $70 from b to a at 333333333352.
+Transaction executed at 333333333352: $70 from b to a.
+Transaction placed at 333333333353: $90 from b to a at 333333333354.
+Transaction executed at 333333333354: $90 from b to a.
+Transaction placed at 333333333355: $1 from a to b at 333333333356.
+Transaction executed at 333333333356: $1 from a to b.
+Transaction placed at 333333333357: $1 from a to b at 333333333358.
+Transaction executed at 333333333358: $1 from a to b.
+Transaction placed at 333333333359: $1 from a to b at 333333333360.
+Transaction executed at 333333333360: $1 from a to b.
+Transaction placed at 333333333361: $1 from a to b at 333333333362.
+Transaction executed at 333333333362: $1 from a to b.
+Transaction placed at 333333333363: $200 from a to b at 333333333364.
+Transaction executed at 333333333364: $200 from a to b.
+Transaction placed at 333333333365: $200 from a to b at 333333333366.
+Transaction executed at 333333333366: $200 from a to b.
+Transaction placed at 333333333367: $1 from a to b at 333333363368.
+Transaction placed at 333333333369: $1 from a to b at 333333333370.
+Transaction executed at 333333333370: $1 from a to b.
+Transaction placed at 333333333371: $1 from a to b at 333333333372.
+Transaction executed at 333333333372: $1 from a to b.
+Transaction placed at 333333333373: $200 from a to b at 333333333374.
+Transaction executed at 333333333374: $200 from a to b.
+Transaction placed at 333333333375: $200 from a to b at 333333333376.
+Transaction executed at 333333333376: $200 from a to b.
+Transaction placed at 333333333377: $1 from a to b at 333333333378.
+Transaction executed at 333333333378: $1 from a to b.
+Transaction placed at 333333333379: $1 from a to b at 333333333380.
+Transaction executed at 333333333380: $1 from a to b.
+Transaction placed at 333333333381: $1 from a to b at 333333333382.
+Transaction executed at 333333333382: $1 from a to b.
+Transaction placed at 333333333383: $1 from a to b at 333333333384.
+Select a time less than three days in the future.
+Transaction executed at 333333333384: $1 from a to b.
+Transaction executed at 333333363368: $1 from a to b.
+0: a sent 1 dollar to b at 333333333334.
+1: a sent 1 dollar to b at 333333333340.
+2: a sent 1 dollar to b at 333333333348.
+3: b sent 70 dollars to a at 333333333352.
+4: b sent 90 dollars to a at 333333333354.
+5: a sent 1 dollar to b at 333333333356.
+6: a sent 1 dollar to b at 333333333358.
+7: a sent 1 dollar to b at 333333333360.
+8: a sent 1 dollar to b at 333333333362.
+9: a sent 200 dollars to b at 333333333364.
+10: a sent 200 dollars to b at 333333333366.
+12: a sent 1 dollar to b at 333333333370.
+13: a sent 1 dollar to b at 333333333372.
+14: a sent 200 dollars to b at 333333333374.
+15: a sent 200 dollars to b at 333333333376.
+16: a sent 1 dollar to b at 333333333378.
+17: a sent 1 dollar to b at 333333333380.
+18: a sent 1 dollar to b at 333333333382.
+19: a sent 1 dollar to b at 333333333384.
+11: a sent 1 dollar to b at 333333363368.
+There were 20 transactions that were placed between time 0 to 999999999999.
+Customer a account summary:
+Balance: $370
+Total # of transactions: 20
+Incoming 2:
+3: b sent 70 dollars to a at 333333333352.
+4: b sent 90 dollars to a at 333333333354.
+Outgoing 18:
+10: a sent 200 dollars to b at 333333333366.
+12: a sent 1 dollar to b at 333333333370.
+13: a sent 1 dollar to b at 333333333372.
+14: a sent 200 dollars to b at 333333333374.
+15: a sent 200 dollars to b at 333333333376.
+16: a sent 1 dollar to b at 333333333378.
+17: a sent 1 dollar to b at 333333333380.
+18: a sent 1 dollar to b at 333333333382.
+19: a sent 1 dollar to b at 333333333384.
+11: a sent 1 dollar to b at 333333363368.
+Customer b account summary:
+Balance: $823
+Total # of transactions: 20
+Incoming 18:
+10: a sent 200 dollars to b at 333333333366.
+12: a sent 1 dollar to b at 333333333370.
+13: a sent 1 dollar to b at 333333333372.
+14: a sent 200 dollars to b at 333333333374.
+15: a sent 200 dollars to b at 333333333376.
+16: a sent 1 dollar to b at 333333333378.
+17: a sent 1 dollar to b at 333333333380.
+18: a sent 1 dollar to b at 333333333382.
+19: a sent 1 dollar to b at 333333333384.
+11: a sent 1 dollar to b at 333333363368.
+Outgoing 2:
+3: b sent 70 dollars to a at 333333333352.
+4: b sent 90 dollars to a at 333333333354.
+Summary of [111111000000, 111112000000):
+There were a total of 0 transactions, 281Bank has collected 0 dollars in fees.
+Summary of [333333000000, 333334000000):
+0: a sent 1 dollar to b at 333333333334.
+1: a sent 1 dollar to b at 333333333340.
+2: a sent 1 dollar to b at 333333333348.
+3: b sent 70 dollars to a at 333333333352.
+4: b sent 90 dollars to a at 333333333354.
+5: a sent 1 dollar to b at 333333333356.
+6: a sent 1 dollar to b at 333333333358.
+7: a sent 1 dollar to b at 333333333360.
+8: a sent 1 dollar to b at 333333333362.
+9: a sent 200 dollars to b at 333333333364.
+10: a sent 200 dollars to b at 333333333366.
+12: a sent 1 dollar to b at 333333333370.
+13: a sent 1 dollar to b at 333333333372.
+14: a sent 200 dollars to b at 333333333374.
+15: a sent 200 dollars to b at 333333333376.
+16: a sent 1 dollar to b at 333333333378.
+17: a sent 1 dollar to b at 333333333380.
+18: a sent 1 dollar to b at 333333333382.
+19: a sent 1 dollar to b at 333333333384.
+11: a sent 1 dollar to b at 333333363368.
+There were a total of 20 transactions, 281Bank has collected 140 dollars in fees.
+Summary of [493333000000, 493334000000):
+There were a total of 0 transactions, 281Bank has collected 0 dollars in fees.
