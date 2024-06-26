@@ -1,0 +1,6 @@
+1 1 6
+// A simple example puzzle + 
+// 2 colors (A, B)
+// 5x4 grid
+....a?
+
